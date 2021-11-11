@@ -2,6 +2,12 @@
 
 ログイン機能により、プライベートな Todo 管理をブラウザから行えます
 
+# objective
+
+- echo や gin などのフレームワークなどは使用せずに、標準パッケージやサードパッケージのみで ユーザーの登録、ログイン、ログアウト機能や、データの CRUD 処理（net/http）を実装しました。 
+- heroku にデプロイ。
+- Goのシステム開発の上での基盤の理解（応用可能）
+
 # specification
 
 Golang, HTML, CSS, Bootstrap, jQuery
